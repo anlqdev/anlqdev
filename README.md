@@ -36,7 +36,8 @@ Tiktok: https://www.tiktok.com/@anlqdev
 - I'm using Windows 10 and Ubuntu 24.02 (Computer) and iOS 26 Dev Beta 6 (iPhone)
 
 -----------------------------------------------------------
-An
+<img width="500" height="150" alt="signature" src="https://github.com/user-attachments/assets/4667aaf8-5b3c-4471-88dc-0ee841b4e3d1" />
+
 
 <!--
 **anlqdev/anlqdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
