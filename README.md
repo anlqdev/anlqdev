@@ -23,6 +23,9 @@ You can connect me through Discord
 Just find me by searching `anlqdev` in Add friend.
 You can meet me on some Discord server!
 
+## Social media
+Tiktok: https://www.tiktok.com/@anlqdev
+
 <!--
 **anlqdev/anlqdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
