@@ -26,6 +26,18 @@ You can meet me on some Discord server!
 ## Social media
 Tiktok: https://www.tiktok.com/@anlqdev
 
+## Fun stuff
+- Yeah, I'm playing Roblox lol, u can connect me by searching `2ndroblox28comp`
+
+- Here are all of my friends: iaminfinityiq, TechRealm, ...
+
+- I like listening to music by Son Tung M-TP and Anh trai "Say Hi"
+
+- I'm using Windows 10 and Ubuntu 24.02 (Computer) and iOS 26 Dev Beta 6 (iPhone)
+
+-----------------------------------------------------------
+An
+
 <!--
 **anlqdev/anlqdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
