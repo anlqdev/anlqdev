@@ -11,7 +11,6 @@ I'm male
 ## Stats
 
 ![anlqdev's Stats](https://github-readme-stats.vercel.app/api?username=anlqdev&theme=default&show_icons=true&hide_border=false&count_private=true)
-![anlqdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anlqdev&theme=default&hide_border=false)
 ![anlqdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anlqdev&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ## My project
