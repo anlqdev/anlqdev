@@ -36,7 +36,7 @@ Tiktok: https://www.tiktok.com/@anlqdev
 
 - Here are all of my friends: iaminfinityiq, TechRealm, ...
 
-- I like listening to music by Son Tung M-TP and Anh trai "Say Hi"
+- I like listening to music by Son Tung M-TP and Anh trai "Say Hi" 2024
 
 - I'm using Windows 10 and Ubuntu 24.02 (Computer) and iOS 26 Dev Beta 6 (iPhone)
 
