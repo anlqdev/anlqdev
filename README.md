@@ -16,14 +16,14 @@ I'm male
 ## My project
 I'm working on PowerSchedule
 
-But wait... why is fluentix-ide archieved? Because in the past, I was known as a friend of [nglam](https://nglam.dev)'s friend, and now I caused a conflict with him.
+But wait... why is fluentix-ide archived? Because in the past, I was known as a friend of [nglam](https://nglam.dev)'s friend, and now I caused a conflict with him.
 
 ## My blog
 [Click me!](https://anlqdev.github.io) but it still incomplete :(
 
 ## Connect me
 
-You can connect me through Discord
+You can connect with me through Discord.
 
 Just find me by searching `anlqdev` in Add friend.
 You can meet me on some Discord server!
