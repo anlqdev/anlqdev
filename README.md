@@ -34,7 +34,7 @@ Tiktok: https://www.tiktok.com/@anlqdev
 ## Fun stuff
 - Yeah, I'm playing Roblox lol, u can connect me by searching `2ndroblox28comp`
 
-- Here are all of my friends: iaminfinityiq, TechRealm, ...
+- Here are all of my friends: iaminfinityiq, TechRealm, nglam, ...
 
 - I like listening to music by Son Tung M-TP and Anh trai "Say Hi" 2024
 
