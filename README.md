@@ -19,7 +19,7 @@ I'm working on PowerSchedule
 But wait... why is fluentix-ide archived? Because in the past, I was known as a friend of [nglam](https://nglam.dev)'s friend, and now I caused a conflict with him.
 
 ## My blog
--
+--
 
 ## Connect me
 
